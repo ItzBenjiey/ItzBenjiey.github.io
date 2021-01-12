@@ -1,0 +1,21 @@
+#about{
+    background: url("./asssets/Ben\ Lucas.jpg");
+    background-size: 50vh;
+    height: 50vh;
+    color:black;
+    position: relative;
+    background-repeat: no-repeat;
+      border: 3px solid transparent;
+    padding: 5px;
+    border-color: aqua;
+    border-width: 5px;
+}
+
+h1 {
+  color: white;
+}
+
+.about.me.text{
+  color: white;
+  bottom: 50vh;
+}

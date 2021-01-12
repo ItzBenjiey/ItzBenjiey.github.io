@@ -1,0 +1,17 @@
+.jumbotron {
+    background: url("./asssets/dolphin.jpg");
+    background-size: auto;
+    background-repeat: no-repeat;
+    height:145vh;
+    color:black;
+    border: 3px solid transparent;
+    padding: 5px;
+    border-color: aqua;
+    border-width: 5px;
+}
+
+.container.text-center{
+    color:white;
+    position: absolute;
+    bottom: 20vh;
+}
